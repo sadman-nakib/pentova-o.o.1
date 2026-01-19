@@ -1,0 +1,7 @@
+{
+  "name": "Pentova - Premium Tech Store",
+  "description": "An ultra-modern, futuristic e-commerce platform for high-end gadgets and tech products, powered by Supabase.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
